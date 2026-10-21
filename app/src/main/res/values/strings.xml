@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YT Growth</string>
+    <string name="tagline">Grow Your YouTube Channel 10x Faster with AI</string>
+    <string name="pill_badge">AI-POWERED YOUTUBE GROWTH OS</string>
+    <string name="hero_subtext">YT Studio intelligence, keyword research, competitor analysis, transcripts, and AI strategy — all in one platform.</string>
+    <string name="cta_login_youtube">Login with YouTube — Get Free Analysis</string>
+    <string name="cta_explore_features">Explore Features</string>
+</resources>
